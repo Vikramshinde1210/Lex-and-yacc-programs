@@ -1,0 +1,5 @@
+Number of characters: 75
+Number of words: 9
+Number of lines: 8
+Number of keywords: 3
+Number of identifier: 3
